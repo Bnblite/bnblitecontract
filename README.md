@@ -1,4 +1,4 @@
-# bnblitecontract
+# Binance Smart chain Bnb utility-token
 Token contract for bnblite finance
 BNB Utility Token
 Our platform will be powered by our deflationary utility-token BNB LITE and users of our platform will be able to get cheaper prices and better rates for Money Transfers.
