@@ -10,4 +10,5 @@ Earn Crypto:
 Send Money to your loved ones and Earn Crypto as Cashback. Our App will find best money transfer rates and user can transfer money without any fees.
 
 BnbLite is in early stages of app development. Articles about the app usage, development process, holders votes, and notes from the devs will be publish in September 2021 throughout Q1 2022.
+
 Information about the remittance app is available via email contact to info@bnblite.finance
